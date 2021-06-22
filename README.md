@@ -40,4 +40,3 @@ Users should be able to:
 ## Author
 
 - Website - [Mairon Romero](https://mairon-romero.netlify.app/)
-- Frontend Mentor - [@MaironL](https://www.frontendmentor.io/profile/MaironL)
